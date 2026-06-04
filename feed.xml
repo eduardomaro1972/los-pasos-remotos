@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Los Pasos Remotos</title>
-    <link href="https://github.com/eduardomaro1972/los-pasos-remotos/feed.xml" rel="self" />
-    <link href="https://github.com/eduardomaro1972/los-pasos-remotos" />
+    <link href="https://eduardomaro1972.github.io/los-pasos-remotos/feed.xml" rel="self" />
+    <link href="https://eduardomaro1972.github.io/los-pasos-remotos" />
     <updated>2026-06-03T23:02:53-04:00</updated>
     <author>
         <name>Eduardo Mariño Rodríguez</name>
     </author>
-    <id>https://github.com/eduardomaro1972/los-pasos-remotos</id>
+    <id>https://eduardomaro1972.github.io/los-pasos-remotos</id>
 
     <entry>
         <title>Sabana abierta</title>
         <author>
             <name>Eduardo Mariño Rodríguez</name>
         </author>
-        <link href="https://github.com/eduardomaro1972/los-pasos-remotos/sabana-abierta.html"/>
-        <id>https://github.com/eduardomaro1972/los-pasos-remotos/sabana-abierta.html</id>
-        <media:content url="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/6/sabana.jpg" medium="image" />
+        <link href="https://eduardomaro1972.github.io/los-pasos-remotos/sabana-abierta.html"/>
+        <id>https://eduardomaro1972.github.io/los-pasos-remotos/sabana-abierta.html</id>
+        <media:content url="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/6/sabana.jpg" medium="image" />
             <category term="Depósitos Cuaternarios"/>
 
         <updated>2026-06-03T22:30:32-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/6/sabana.jpg" alt="" />
+                        <img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/6/sabana.jpg" alt="" />
                     San Carlos es la entrada al llano. El río Tirgua y sus pequeños afluentes transcurren en una sabana abierta dejando ricos depósitos de arena y aluvión que se remontan al último par de millones de años. ¿Qué encontraremos ahí?
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/6/sabana.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/6/sabana.jpg" class="type:primaryImage" alt="" /></p>
                 <p>San Carlos es la entrada al llano. El río Tirgua y sus pequeños afluentes transcurren en una sabana abierta dejando ricos depósitos de arena y aluvión que se remontan al último par de millones de años. ¿Qué encontraremos ahí?</p>
             ]]>
         </content>
@@ -38,21 +38,21 @@
         <author>
             <name>Eduardo Mariño Rodríguez</name>
         </author>
-        <link href="https://github.com/eduardomaro1972/los-pasos-remotos/las-calizas-de-el-cocuy.html"/>
-        <id>https://github.com/eduardomaro1972/los-pasos-remotos/las-calizas-de-el-cocuy.html</id>
-        <media:content url="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/5/cocuy.jpg" medium="image" />
+        <link href="https://eduardomaro1972.github.io/los-pasos-remotos/las-calizas-de-el-cocuy.html"/>
+        <id>https://eduardomaro1972.github.io/los-pasos-remotos/las-calizas-de-el-cocuy.html</id>
+        <media:content url="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/5/cocuy.jpg" medium="image" />
             <category term="Formación Cojedes II"/>
 
         <updated>2026-06-03T22:25:05-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/5/cocuy.jpg" alt="" />
+                        <img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/5/cocuy.jpg" alt="" />
                     Pronto estaremos buscando calizas de la Formación Cojedes II en el Cerro el Cocuy, en Barro Negro...
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/5/cocuy.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/5/cocuy.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Pronto estaremos buscando calizas de la Formación Cojedes II en el Cerro el Cocuy, en Barro Negro...</p>
             ]]>
         </content>
@@ -62,21 +62,21 @@
         <author>
             <name>Eduardo Mariño Rodríguez</name>
         </author>
-        <link href="https://github.com/eduardomaro1972/los-pasos-remotos/el-ultimo-vestigio.html"/>
-        <id>https://github.com/eduardomaro1972/los-pasos-remotos/el-ultimo-vestigio.html</id>
-        <media:content url="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/3/medinera.jpg" medium="image" />
+        <link href="https://eduardomaro1972.github.io/los-pasos-remotos/el-ultimo-vestigio.html"/>
+        <id>https://eduardomaro1972.github.io/los-pasos-remotos/el-ultimo-vestigio.html</id>
+        <media:content url="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/3/medinera.jpg" medium="image" />
             <category term="Formación Guárico"/>
 
         <updated>2026-06-03T21:55:37-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/3/medinera.jpg" alt="" />
+                        <img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/3/medinera.jpg" alt="" />
                     Recorriendo la calle Boyacá hasta donde termina en la avenida José Laurencio Silva, es posible notar la sinuosidad del terreno, vestigios de serranías que el pueblo fue aplanando con el peso de sus casas, sus sueños y su avance indetenible. Cruzando la avenida queda un&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/3/medinera.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/3/medinera.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Recorriendo la calle Boyacá hasta donde termina en la avenida José Laurencio Silva, es posible notar la sinuosidad del terreno, vestigios de serranías que el pueblo fue aplanando con el peso de sus casas, sus sueños y su avance indetenible.</p>
 <p>Cruzando la avenida queda un solitario testigo, en la entrada de La Medinera, del remoto paleoceno, al inicio del período Cenozoico o Terciario, Fungiendo como muro improvisado de un terreno baldío, hay un pequeño afloramiento masivamente oxidado con tonos ocre y marrón, lo que indica alteración profunda por meteorización.</p>
 <p>Este pequeño vestigio está compuesto por capas alternadas de turbiditas, principalmente areniscas y lutitas muy lixiviadas, lo que se conoce como un flysch de cuenca foreland. El estrato inclinado indica compresión y plegamiento andino.</p>
@@ -90,21 +90,21 @@
         <author>
             <name>Eduardo Mariño Rodríguez</name>
         </author>
-        <link href="https://github.com/eduardomaro1972/los-pasos-remotos/tesoro-escondido.html"/>
-        <id>https://github.com/eduardomaro1972/los-pasos-remotos/tesoro-escondido.html</id>
-        <media:content url="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/2/L05-26-LARGE.jpg" medium="image" />
+        <link href="https://eduardomaro1972.github.io/los-pasos-remotos/tesoro-escondido.html"/>
+        <id>https://eduardomaro1972.github.io/los-pasos-remotos/tesoro-escondido.html</id>
+        <media:content url="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/2/L05-26-LARGE.jpg" medium="image" />
             <category term="Formación Guárico"/>
 
         <updated>2026-06-03T21:53:54-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/2/L05-26-LARGE.jpg" alt="" />
+                        <img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/2/L05-26-LARGE.jpg" alt="" />
                     En la avenida Circunvalación, esa brecha de asfalto que divide el cerro San Juan de Puerto Escondido, el flysch de la Formación Guárico preserva algo de su prístino entierro abisal. Las areniscas y grauvacas mantienen su color verdoso y las lutitas están grises aun de&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/2/L05-26-LARGE.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/2/L05-26-LARGE.jpg" class="type:primaryImage" alt="" /></p>
                 <p>En la avenida Circunvalación, esa brecha de asfalto que divide el cerro San Juan de Puerto Escondido, el flysch de la Formación Guárico preserva algo de su prístino entierro abisal. Las areniscas y grauvacas mantienen su color verdoso y las lutitas están grises aun de contenido orgánico depositado durante millares de años, en una época en la que el continente lentamente se transformaba y los dinosaurios habían cedido el paso los grandes mamíferos.</p>
 <p>Al microscopio, las frágiles y fracturadas lutitas de la Formación Guárico guardan un tesoro: Diminutos rastros de medio milímetro de ancho, con tabiques cóncavos, regulares y espaciados de forma casi matemática. En la icnología, este patrón se conoce como relleno meniscado. Ocurre cuando un minúsculo organismo avanza a través del lodo denso y, al desplazarse, va empujando el sedimento hacia atrás en pulsos sucesivos, o bien va empaquetando sus propios pellets fecales de forma compacta dentro de la galería. Es la huella de una marcha metódica.</p>
 <p>Estas huellas pertenecen al grupo de los icnogéneros Chondrites o relacionados (como Trichichnus o Phycodes). Estos túneles no eran el hogar fijo de un animal, sino las huellas que dejaba un pequeño organismo sedimentívoro, como un gusano marino mientras "sondeaba" o limpiaba metódicamente el lodo anaeróbico en busca de nutrientes o colonias de bacterias. El animal avanzaba, retrocedía y abría una nueva galería al lado, creando una red muy eficiente.</p>
@@ -117,38 +117,38 @@
         <author>
             <name>Eduardo Mariño Rodríguez</name>
         </author>
-        <link href="https://github.com/eduardomaro1972/los-pasos-remotos/cerro-bonito.html"/>
-        <id>https://github.com/eduardomaro1972/los-pasos-remotos/cerro-bonito.html</id>
-        <media:content url="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/photo_5154813542891457330_y-2.jpg" medium="image" />
+        <link href="https://eduardomaro1972.github.io/los-pasos-remotos/cerro-bonito.html"/>
+        <id>https://eduardomaro1972.github.io/los-pasos-remotos/cerro-bonito.html</id>
+        <media:content url="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/photo_5154813542891457330_y-2.jpg" medium="image" />
             <category term="Formación Mucaria"/>
 
         <updated>2026-06-03T21:53:05-04:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/photo_5154813542891457330_y-2.jpg" alt="" />
+                        <img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/photo_5154813542891457330_y-2.jpg" alt="" />
                     Una de mis primeras excursiones por el pasado remoto, no podía ser de otra forma, fue en el cerro Barreto Méndez, o Cerro Bonito, como se le ha conocido en los últimos años. Ubicado en el conocido y tradicional complejo deportivo al norte de San&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/photo_5154813542891457330_y-2.jpg" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/photo_5154813542891457330_y-2.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Una de mis primeras excursiones por el pasado remoto, no podía ser de otra forma, fue en el cerro Barreto Méndez, o Cerro Bonito, como se le ha conocido en los últimos años. Ubicado en el conocido y tradicional complejo deportivo al norte de San Carlos y destino favorecido de centenares de caminantes y trotones, esta marcada elevación que se acompaña con el cerro del tanque y el cerro La Misión, es uno de los más conspicuos representantes de la Formación Mucaria en San Carlos.</p>
 <p>Aquí encontramos prácticamente toda la escala, desde unas arcillitas frágiles, que se deshacen como hojaldre en las manos, pasando por variedades de lutita desde las hemrosas y coloridas con dendritas y anillos de Liesensang, a las azules y grises que ya van deviniendo en filitas, y reinando en bloques abruptos, el infaltable chert, que aparece en tonalidades rojizas y blancas, fruto de la extrema lixiviación a lo largo de millones de años de exposición a la lluvia y el sol, de la sabana circundante.</p>
 <p>Aquí he encontrado piezas hermosas, con mucha historia en lo geológico, pero hasta ahora, poco o ningún resto de vida pasada. Mucaria se formó en el fondo de un mar profundo, donde la biota era escasa y más escasa aún la posibilidad de algo que sobreviviese a sus complejos procesos. Sin embargo, aquí y allá, el microscopio muestra trazas inobjetables de algún anélido, algún invertebrado que cavó su camino a casa o hurgó en el fondo limoso en busca de su precario alimento cuando en la superficie, los dinosaurios hacían trepidar el suelo con sus pasos.</p>
 <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/photo_5154813542891457329_y.jpg" data-size="1280x960"><img loading="lazy" src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/photo_5154813542891457329_y-thumbnail.jpg" alt="" width="720" height="540"></a>
+<figure class="gallery__item"><a href="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/photo_5154813542891457329_y.jpg" data-size="1280x960"><img loading="lazy" src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/photo_5154813542891457329_y-thumbnail.jpg" alt="" width="720" height="540"></a>
 <figcaption>Vista hacia el cerro San Juan</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251127-183018-429.jpg" data-size="640x480"><img loading="lazy" src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251127-183018-429-thumbnail.jpg" alt="" width="640" height="480"></a>
+<figure class="gallery__item"><a href="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251127-183018-429.jpg" data-size="640x480"><img loading="lazy" src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251127-183018-429-thumbnail.jpg" alt="" width="640" height="480"></a>
 <figcaption>Marca carbonatada en lutita del Cerro Bonito</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251127-194943-395.jpg" data-size="640x480"><img loading="lazy" src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251127-194943-395-thumbnail.jpg" alt="" width="640" height="480"></a>
+<figure class="gallery__item"><a href="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251127-194943-395.jpg" data-size="640x480"><img loading="lazy" src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251127-194943-395-thumbnail.jpg" alt="" width="640" height="480"></a>
 <figcaption>Fragmento siliceo en lutita del Cerro Bonito</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251129-090517-149.jpg" data-size="640x480"><img loading="lazy" src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251129-090517-149-thumbnail.jpg" alt="" width="640" height="480"></a>
+<figure class="gallery__item"><a href="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251129-090517-149.jpg" data-size="640x480"><img loading="lazy" src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251129-090517-149-thumbnail.jpg" alt="" width="640" height="480"></a>
 <figcaption>Posible Chondrites en lutita del Cerro Bonito</figcaption>
 </figure>
-<figure class="gallery__item"><a href="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251129-092605-411.jpg" data-size="640x480"><img loading="lazy" src="https://github.com/eduardomaro1972/los-pasos-remotos/media/posts/1/gallery/20251129-092605-411-thumbnail.jpg" alt="" width="640" height="480"></a>
+<figure class="gallery__item"><a href="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251129-092605-411.jpg" data-size="640x480"><img loading="lazy" src="https://eduardomaro1972.github.io/los-pasos-remotos/media/posts/1/gallery/20251129-092605-411-thumbnail.jpg" alt="" width="640" height="480"></a>
 <figcaption>Posible Chondrites en lutita del Cerro Bonito</figcaption>
 </figure>
 </div></div>
