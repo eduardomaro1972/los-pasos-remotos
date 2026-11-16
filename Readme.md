@@ -1,1 +1,2 @@
-Crónicas sobre la geología de los alrededores de San Carlos, Venezuela; Formación Mucaria; Formación Guárico; Formación Mapuey: Paleontología, Senderismo. Alojada en https://los-pasos-remotos.pages.dev/
+Explorando la geología local de San Carlos - Venezuela
+Crónicas sobre la geología de los alrededores de San Carlos; Formación Mucaria; Formación Guárico; Formación Mapuey: Paleontología, Senderismo. Alojada en https://los-pasos-remotos.pages.dev/
